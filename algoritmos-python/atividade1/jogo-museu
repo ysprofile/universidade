@@ -1,0 +1,24 @@
+# 🏛️ Jogo do Museu
+
+## 📄 Descrição
+Este projeto consiste em um jogo desenvolvido em Python com base em um cenário de museu, onde o usuário interage com o sistema por meio de entradas no terminal.
+
+## 🎯 Objetivo
+Aplicar conceitos de lógica de programação e algoritmos, como:
+- Estruturas condicionais
+- Entrada e saída de dados
+- Controle de fluxo
+
+## 🧠 Funcionamento
+O jogo simula decisões dentro de um museu, onde o usuário deve escolher ações com base nas opções apresentadas pelo programa.
+
+## 💻 Tecnologias utilizadas
+- Python
+
+## 🚀 Como executar
+
+1. Baixe o arquivo `jogo.py`
+2. Execute no terminal:
+
+```bash
+python jogo.py
